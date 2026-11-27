@@ -1,0 +1,1410 @@
+[
+    {
+        "generated": "13-Oct-2026 13:45:58",
+        "riskScore": 55,
+        "riskLevel": "HIGH",
+        "totalPackets": 19542109,
+        "packetRate": 108528.8,
+        "throughput": 987.11
+    },
+    {
+        "scanId": "e190a93e-5d49-41bf-b0ab-6fea6b035a74",
+        "generated": "13-Oct-2026 13:53:05",
+        "generatedISO": "2026-10-13T13:53:05.038098",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19583863,
+        "packetRate": 231.99,
+        "throughputMbps": 2.41
+    },
+    {
+        "scanId": "fa81a74a-e799-4248-a248-d286f94a7100",
+        "generated": "13-Oct-2026 13:58:01",
+        "generatedISO": "2026-10-13T13:58:01.300558",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19622933,
+        "packetRate": 217.24,
+        "throughputMbps": 2.26
+    },
+    {
+        "scanId": "f1936438-bd6c-4f0e-8c95-49e63ef72630",
+        "generated": "13-Oct-2026 13:58:40",
+        "generatedISO": "2026-10-13T13:58:40.593875",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19636592,
+        "packetRate": 75.89,
+        "throughputMbps": 0.73
+    },
+    {
+        "scanId": "618e71aa-120e-49ae-bfa0-8ac9d26640db",
+        "generated": "13-Oct-2026 14:02:52",
+        "generatedISO": "2026-10-13T14:02:52.367252",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19645670,
+        "packetRate": 50.46,
+        "throughputMbps": 0.46
+    },
+    {
+        "scanId": "eb47f05a-f0e6-4cc8-a2e5-b272ad211471",
+        "generated": "13-Oct-2026 14:12:29",
+        "generatedISO": "2026-10-13T14:12:29.427698",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19674510,
+        "packetRate": 160.25,
+        "throughputMbps": 1.64
+    },
+    {
+        "scanId": "1fd9d110-7f3a-4249-9c6e-66177f2e8ef9",
+        "generated": "13-Oct-2026 14:12:36",
+        "generatedISO": "2026-10-13T14:12:36.075954",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19680541,
+        "packetRate": 33.68,
+        "throughputMbps": 0.17
+    },
+    {
+        "scanId": "bd6b1ad9-7157-4c40-847f-d74e249fa476",
+        "generated": "13-Oct-2026 14:15:34",
+        "generatedISO": "2026-10-13T14:15:34.478328",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19683785,
+        "packetRate": 18.04,
+        "throughputMbps": 0.08
+    },
+    {
+        "scanId": "b204203c-7c4c-4035-80c7-252b1af2eb24",
+        "generated": "13-Oct-2026 14:18:36",
+        "generatedISO": "2026-10-13T14:18:36.422857",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19687717,
+        "packetRate": 22.0,
+        "throughputMbps": 0.11
+    },
+    {
+        "scanId": "ccd0345d-150a-436c-8c20-2e24002f3da7",
+        "generated": "13-Oct-2026 14:21:36",
+        "generatedISO": "2026-10-13T14:21:36.498545",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19689906,
+        "packetRate": 12.17,
+        "throughputMbps": 0.04
+    },
+    {
+        "scanId": "4e0da29c-ce98-4023-8ded-3036977b4e4d",
+        "generated": "13-Oct-2026 14:24:38",
+        "generatedISO": "2026-10-13T14:24:38.361136",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19692991,
+        "packetRate": 17.2,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "91ca5dc1-4542-4052-889d-2159871af0e8",
+        "generated": "13-Oct-2026 14:27:37",
+        "generatedISO": "2026-10-13T14:27:37.289286",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19694920,
+        "packetRate": 10.79,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "e1139e52-f382-4475-a970-225d60da9c79",
+        "generated": "13-Oct-2026 14:30:37",
+        "generatedISO": "2026-10-13T14:30:37.512510",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19696597,
+        "packetRate": 9.33,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "ca6fb4d6-bb6d-4880-a591-14c097bad99b",
+        "generated": "13-Oct-2026 14:33:38",
+        "generatedISO": "2026-10-13T14:33:38.017948",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19698515,
+        "packetRate": 10.66,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "c2b9d167-156c-479a-b86d-afdba1763d79",
+        "generated": "13-Oct-2026 14:36:38",
+        "generatedISO": "2026-10-13T14:36:38.644978",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19700141,
+        "packetRate": 9.04,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "e89ebaba-29a3-43f5-838a-72d972093e74",
+        "generated": "13-Oct-2026 14:39:43",
+        "generatedISO": "2026-10-13T14:39:43.875726",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19705619,
+        "packetRate": 30.45,
+        "throughputMbps": 0.05
+    },
+    {
+        "scanId": "32d124ac-3ca5-4796-9699-c7b5703173b1",
+        "generated": "13-Oct-2026 14:42:40",
+        "generatedISO": "2026-10-13T14:42:40.351683",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19707392,
+        "packetRate": 9.85,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "ac4e41fd-71d8-4b0c-b8d0-10322f868a82",
+        "generated": "13-Oct-2026 14:45:41",
+        "generatedISO": "2026-10-13T14:45:41.219389",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19709075,
+        "packetRate": 9.44,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "124a7666-edaa-448d-ba00-1408fb14c018",
+        "generated": "13-Oct-2026 14:48:42",
+        "generatedISO": "2026-10-13T14:48:42.484684",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19712211,
+        "packetRate": 17.57,
+        "throughputMbps": 0.06
+    },
+    {
+        "scanId": "2c8fc65c-9a96-4c0c-aa03-f4656b10f6b3",
+        "generated": "13-Oct-2026 14:51:42",
+        "generatedISO": "2026-10-13T14:51:42.630440",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19714139,
+        "packetRate": 10.75,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "bb8385b9-7cf5-4561-b0dd-a38fa4fe606c",
+        "generated": "13-Oct-2026 14:54:43",
+        "generatedISO": "2026-10-13T14:54:43.462598",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19716379,
+        "packetRate": 12.46,
+        "throughputMbps": 0.04
+    },
+    {
+        "scanId": "17773950-7f80-42cb-986c-25c8432d2079",
+        "generated": "13-Oct-2026 14:57:44",
+        "generatedISO": "2026-10-13T14:57:44.035235",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19718333,
+        "packetRate": 10.86,
+        "throughputMbps": 0.04
+    },
+    {
+        "scanId": "83adc93e-2b86-4221-8a49-444a6753100e",
+        "generated": "13-Oct-2026 15:00:44",
+        "generatedISO": "2026-10-13T15:00:44.595230",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19719847,
+        "packetRate": 8.44,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "933e5ed0-49ea-488f-a3f5-2dc4bea888d8",
+        "generated": "13-Oct-2026 15:03:45",
+        "generatedISO": "2026-10-13T15:03:45.289442",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19721620,
+        "packetRate": 9.86,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "094cd244-7b00-4fb4-909c-85d84f3989c5",
+        "generated": "13-Oct-2026 15:06:45",
+        "generatedISO": "2026-10-13T15:06:45.939749",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19723384,
+        "packetRate": 9.81,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "74966b63-62d2-491f-bada-6e67d4823d9f",
+        "generated": "13-Oct-2026 15:09:46",
+        "generatedISO": "2026-10-13T15:09:46.782420",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19725158,
+        "packetRate": 9.87,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "fa886847-fdf4-41e8-a9b5-2ada23da0aac",
+        "generated": "13-Oct-2026 15:12:47",
+        "generatedISO": "2026-10-13T15:12:47.410011",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19726922,
+        "packetRate": 9.81,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "1ed63f62-2ab1-4604-a778-71224b70cc54",
+        "generated": "13-Oct-2026 15:15:48",
+        "generatedISO": "2026-10-13T15:15:48.058323",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19728716,
+        "packetRate": 9.98,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "16b4c04a-448c-44dc-9684-35a3931c68de",
+        "generated": "13-Oct-2026 15:18:49",
+        "generatedISO": "2026-10-13T15:18:49.894117",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19731960,
+        "packetRate": 18.11,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "85e6a75e-3ac1-4188-9c7a-55c11842a67c",
+        "generated": "13-Oct-2026 15:21:49",
+        "generatedISO": "2026-10-13T15:21:49.718326",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19733776,
+        "packetRate": 10.09,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "9a6bbdc8-e555-4194-b1c9-3e4fbdd62390",
+        "generated": "13-Oct-2026 15:24:50",
+        "generatedISO": "2026-10-13T15:24:50.366063",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19735532,
+        "packetRate": 9.76,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "b93ec29e-b64c-4cee-a78b-4f94aa2b2889",
+        "generated": "13-Oct-2026 15:27:50",
+        "generatedISO": "2026-10-13T15:27:50.978043",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19737405,
+        "packetRate": 10.42,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "4354bb9d-b93d-4950-94e7-9c1607206329",
+        "generated": "13-Oct-2026 15:30:51",
+        "generatedISO": "2026-10-13T15:30:51.800917",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19739294,
+        "packetRate": 10.5,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "74c24916-3943-473b-a27f-edcac709ac54",
+        "generated": "13-Oct-2026 15:33:52",
+        "generatedISO": "2026-10-13T15:33:52.509021",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19741088,
+        "packetRate": 10.07,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "6f1a35b1-ff7e-4737-9feb-98366f8fbde4",
+        "generated": "13-Oct-2026 15:36:53",
+        "generatedISO": "2026-10-13T15:36:53.002608",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19742703,
+        "packetRate": 8.99,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "d0beb1d1-8a6d-4e7d-a1ca-25fd4212f850",
+        "generated": "13-Oct-2026 15:39:53",
+        "generatedISO": "2026-10-13T15:39:53.714863",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19744707,
+        "packetRate": 11.15,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "297b233d-b3b5-48f1-b2c7-4154198abfd3",
+        "generated": "13-Oct-2026 15:42:54",
+        "generatedISO": "2026-10-13T15:42:54.307034",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19746485,
+        "packetRate": 9.88,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "127482c6-c837-4ff0-a6dc-25ea434b9380",
+        "generated": "13-Oct-2026 15:45:55",
+        "generatedISO": "2026-10-13T15:45:55.124553",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19747954,
+        "packetRate": 8.18,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "7de0de95-feed-4066-a993-865686437018",
+        "generated": "13-Oct-2026 15:48:55",
+        "generatedISO": "2026-10-13T15:48:55.968027",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19749880,
+        "packetRate": 10.71,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "2444738d-b794-4070-9adb-90251b85c14f",
+        "generated": "13-Oct-2026 15:51:56",
+        "generatedISO": "2026-10-13T15:51:56.854672",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19751780,
+        "packetRate": 10.55,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "b442c899-50cb-4062-8f46-9ee66b2c05e6",
+        "generated": "13-Oct-2026 15:54:57",
+        "generatedISO": "2026-10-13T15:54:57.310811",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19753545,
+        "packetRate": 9.82,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "9218dbf5-397a-47c6-b12b-0f89cece2383",
+        "generated": "13-Oct-2026 15:57:58",
+        "generatedISO": "2026-10-13T15:57:58.217899",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19755329,
+        "packetRate": 9.92,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "87493073-27bb-4e34-b02f-78f5e800f014",
+        "generated": "13-Oct-2026 16:00:59",
+        "generatedISO": "2026-10-13T16:00:59.018716",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19757141,
+        "packetRate": 10.16,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "8300a47a-6049-4a87-bb34-b27cabda4d43",
+        "generated": "13-Oct-2026 16:03:59",
+        "generatedISO": "2026-10-13T16:03:59.440292",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19758903,
+        "packetRate": 9.8,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "d9c53ad1-cd67-4ccd-a84c-eb7972d32ca8",
+        "generated": "13-Oct-2026 16:07:00",
+        "generatedISO": "2026-10-13T16:07:00.398327",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19760689,
+        "packetRate": 9.99,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "74070132-2e90-487d-b52b-cda6a46202c6",
+        "generated": "13-Oct-2026 16:10:01",
+        "generatedISO": "2026-10-13T16:10:01.782697",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19764856,
+        "packetRate": 23.28,
+        "throughputMbps": 0.05
+    },
+    {
+        "scanId": "3de641f7-60da-47be-ac29-016b336210a1",
+        "generated": "13-Oct-2026 16:13:01",
+        "generatedISO": "2026-10-13T16:13:01.957583",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19767014,
+        "packetRate": 12.03,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "33076921-ae96-4d58-af0f-3330e7faae7e",
+        "generated": "13-Oct-2026 16:16:02",
+        "generatedISO": "2026-10-13T16:16:02.363537",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19768768,
+        "packetRate": 9.75,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "5db1e979-22db-4aa1-b411-c0a371afc14e",
+        "generated": "13-Oct-2026 16:19:03",
+        "generatedISO": "2026-10-13T16:19:03.302314",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19770657,
+        "packetRate": 10.51,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "32658c8d-2b7b-4fa2-856e-5f8441065385",
+        "generated": "13-Oct-2026 16:22:03",
+        "generatedISO": "2026-10-13T16:22:03.897542",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19772426,
+        "packetRate": 9.83,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "bd9786e9-88a1-42cc-8875-c1866eb424e7",
+        "generated": "13-Oct-2026 16:25:05",
+        "generatedISO": "2026-10-13T16:25:05.626178",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19775329,
+        "packetRate": 16.19,
+        "throughputMbps": 0.08
+    },
+    {
+        "scanId": "6ceefe1f-7d39-4e1d-8e0f-532fb3e926e6",
+        "generated": "13-Oct-2026 16:28:05",
+        "generatedISO": "2026-10-13T16:28:05.466286",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19777138,
+        "packetRate": 10.06,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "f29ce6d3-6b7d-4ca3-9b29-301244c79f08",
+        "generated": "13-Oct-2026 16:31:06",
+        "generatedISO": "2026-10-13T16:31:06.081670",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19778902,
+        "packetRate": 9.81,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "79ef8fca-84e3-4a06-9d8d-6a286a07baf4",
+        "generated": "13-Oct-2026 16:34:06",
+        "generatedISO": "2026-10-13T16:34:06.841191",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19780663,
+        "packetRate": 9.79,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "bae8df9d-9851-4d58-b882-3b54f8aa47f7",
+        "generated": "13-Oct-2026 16:37:07",
+        "generatedISO": "2026-10-13T16:37:07.549834",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19782477,
+        "packetRate": 10.1,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "7049493d-1e63-48ae-959d-aeb3932150c8",
+        "generated": "13-Oct-2026 16:40:10",
+        "generatedISO": "2026-10-13T16:40:10.234846",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19790675,
+        "packetRate": 45.54,
+        "throughputMbps": 0.05
+    },
+    {
+        "scanId": "3eabe5c9-2f9b-46f2-8244-b3fe353c4b82",
+        "generated": "13-Oct-2026 16:43:09",
+        "generatedISO": "2026-10-13T16:43:09.145218",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19792785,
+        "packetRate": 11.73,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "6318d927-9876-4678-a9de-5efc0105646e",
+        "generated": "13-Oct-2026 16:46:09",
+        "generatedISO": "2026-10-13T16:46:09.596978",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19794228,
+        "packetRate": 8.07,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "74fa48a9-2453-4036-8b17-bcd80c396f0f",
+        "generated": "13-Oct-2026 16:49:10",
+        "generatedISO": "2026-10-13T16:49:10.867381",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19796793,
+        "packetRate": 14.33,
+        "throughputMbps": 0.05
+    },
+    {
+        "scanId": "fdf8fc28-053d-4dc5-87cf-cfcb91e447b0",
+        "generated": "13-Oct-2026 18:30:34",
+        "generatedISO": "2026-10-13T18:30:34.644466",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19796990,
+        "packetRate": 10.26,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "2327a0ae-0e86-4a14-9d87-0364242490f8",
+        "generated": "13-Oct-2026 18:30:36",
+        "generatedISO": "2026-10-13T18:30:36.147642",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19797313,
+        "packetRate": 15.87,
+        "throughputMbps": 0.04
+    },
+    {
+        "scanId": "00339bfa-9148-48b4-b0d2-1543eca4a8fc",
+        "generated": "13-Oct-2026 18:33:36",
+        "generatedISO": "2026-10-13T18:33:36.379779",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19797313,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "e57ebcfd-dfd9-4c6e-8a62-4ceb37a2e1e2",
+        "generated": "13-Oct-2026 18:36:37",
+        "generatedISO": "2026-10-13T18:36:37.104635",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19797313,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "1aa8a008-5d4f-4a76-a348-136be15b0b14",
+        "generated": "13-Oct-2026 18:39:37",
+        "generatedISO": "2026-10-13T18:39:37.719781",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19797313,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "1dae1535-322c-471e-8b93-4472055ef16f",
+        "generated": "13-Oct-2026 18:42:38",
+        "generatedISO": "2026-10-13T18:42:38.309035",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19797313,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "32bdb1c1-d7e4-4f5a-9a85-608e218d9e05",
+        "generated": "13-Oct-2026 18:45:40",
+        "generatedISO": "2026-10-13T18:45:40.650749",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19801089,
+        "packetRate": 21.03,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "513623b6-d70a-4808-baa3-e059f7fac137",
+        "generated": "13-Oct-2026 18:48:42",
+        "generatedISO": "2026-10-13T18:48:42.260531",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19805924,
+        "packetRate": 26.87,
+        "throughputMbps": 0.12
+    },
+    {
+        "scanId": "4b9cc2b5-0ca4-47b1-b02d-7cc88806990a",
+        "generated": "13-Oct-2026 18:51:53",
+        "generatedISO": "2026-10-13T18:51:53.945958",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19813913,
+        "packetRate": 44.39,
+        "throughputMbps": 0.1
+    },
+    {
+        "scanId": "6dd2b68a-6fc8-4abe-82f7-81a326ccc9b4",
+        "generated": "13-Oct-2026 18:54:44",
+        "generatedISO": "2026-10-13T18:54:44.330243",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19817920,
+        "packetRate": 22.25,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "32b68ef5-ac9a-4ee5-b505-d30e37ba1f0b",
+        "generated": "13-Oct-2026 18:57:45",
+        "generatedISO": "2026-10-13T18:57:45.427567",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19822039,
+        "packetRate": 22.92,
+        "throughputMbps": 0.1
+    },
+    {
+        "scanId": "963d5e13-3a4e-4de5-9a51-dae9f0357457",
+        "generated": "13-Oct-2026 19:00:44",
+        "generatedISO": "2026-10-13T19:00:44.488951",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19822039,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "c73c5199-5876-4a99-9ff2-135a25796ac4",
+        "generated": "13-Oct-2026 19:03:45",
+        "generatedISO": "2026-10-13T19:03:45.337890",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19822039,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "2dbb5cf7-3af1-4fe3-8f72-cf146306ee74",
+        "generated": "13-Oct-2026 19:06:46",
+        "generatedISO": "2026-10-13T19:06:46.481348",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19822039,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "ab2b13c5-75a0-49fc-816f-8f0e607484c7",
+        "generated": "13-Oct-2026 19:09:50",
+        "generatedISO": "2026-10-13T19:09:50.147774",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19827538,
+        "packetRate": 30.58,
+        "throughputMbps": 0.11
+    },
+    {
+        "scanId": "02b4d9bb-d580-4be2-96ea-a2137a06505f",
+        "generated": "13-Oct-2026 19:12:48",
+        "generatedISO": "2026-10-13T19:12:48.466782",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19827538,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "803e9167-3d67-488c-a7ad-0379ebacb4f1",
+        "generated": "13-Oct-2026 19:15:49",
+        "generatedISO": "2026-10-13T19:15:49.553401",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19827538,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "e5d402bc-ae62-499e-b0a8-e35d0833008e",
+        "generated": "13-Oct-2026 19:18:50",
+        "generatedISO": "2026-10-13T19:18:50.325698",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19827538,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "4288bfac-d203-4238-af7b-26a8e6605a3c",
+        "generated": "13-Oct-2026 19:18:52",
+        "generatedISO": "2026-10-13T19:18:52.391357",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19831306,
+        "packetRate": 20.94,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "3701b343-3412-4a5d-ade4-bf22c4c1c5ea",
+        "generated": "13-Oct-2026 19:21:51",
+        "generatedISO": "2026-10-13T19:21:51.132614",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19831306,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "ce498996-41ce-4edd-ac71-4892728ba81f",
+        "generated": "13-Oct-2026 19:21:54",
+        "generatedISO": "2026-10-13T19:21:54.960724",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19839473,
+        "packetRate": 45.39,
+        "throughputMbps": 0.1
+    },
+    {
+        "scanId": "a1644f69-43a9-4f0e-9654-d456ba63c79b",
+        "generated": "13-Oct-2026 19:24:51",
+        "generatedISO": "2026-10-13T19:24:51.560001",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19839473,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "221823dd-f2e7-49e6-b5cf-38079202e0c2",
+        "generated": "13-Oct-2026 19:24:54",
+        "generatedISO": "2026-10-13T19:24:54.419770",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19842910,
+        "packetRate": 19.11,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "8f0c8c17-8d81-4ac6-9fcc-45e659c7bc0b",
+        "generated": "13-Oct-2026 19:27:52",
+        "generatedISO": "2026-10-13T19:27:52.166511",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19842910,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "f62836a3-e605-4e01-83f5-adbbe0e330a5",
+        "generated": "13-Oct-2026 19:27:55",
+        "generatedISO": "2026-10-13T19:27:55.146569",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19845819,
+        "packetRate": 16.19,
+        "throughputMbps": 0.07
+    },
+    {
+        "scanId": "f9a8a5d6-7b4e-4de4-a4ea-fd87b1f46dee",
+        "generated": "13-Oct-2026 19:30:52",
+        "generatedISO": "2026-10-13T19:30:52.707115",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19845819,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "66ff0a98-ab8a-44ce-95a3-bfdedf8aaabd",
+        "generated": "13-Oct-2026 19:30:57",
+        "generatedISO": "2026-10-13T19:30:57.052480",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19850849,
+        "packetRate": 27.96,
+        "throughputMbps": 0.11
+    },
+    {
+        "scanId": "6d92aa0f-2e0c-4902-b945-838cc29b2aa7",
+        "generated": "13-Oct-2026 19:33:53",
+        "generatedISO": "2026-10-13T19:33:53.809996",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19850849,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "cb31834a-bc7b-4668-a892-5398e9a3f25d",
+        "generated": "13-Oct-2026 19:33:57",
+        "generatedISO": "2026-10-13T19:33:57.166603",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19855486,
+        "packetRate": 25.81,
+        "throughputMbps": 0.11
+    },
+    {
+        "scanId": "bc2a6b52-d656-4406-8f83-42f991a35d86",
+        "generated": "13-Oct-2026 19:36:54",
+        "generatedISO": "2026-10-13T19:36:54.583884",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19855486,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "4b23396d-fd40-42a6-928d-ffd57ceb46ad",
+        "generated": "13-Oct-2026 19:36:58",
+        "generatedISO": "2026-10-13T19:36:58.288029",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19859586,
+        "packetRate": 22.77,
+        "throughputMbps": 0.09
+    },
+    {
+        "scanId": "a5450437-4477-4d44-a0a0-0a061d560382",
+        "generated": "14-Oct-2026 00:03:54",
+        "generatedISO": "2026-10-14T00:03:54.441882",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19862731,
+        "packetRate": 23.29,
+        "throughputMbps": 0.1
+    },
+    {
+        "scanId": "6d0dc278-89a1-4229-8c6b-3994516e084d",
+        "generated": "14-Oct-2026 00:06:52",
+        "generatedISO": "2026-10-14T00:06:52.570263",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19862731,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "27bd3dcf-fb59-4cb0-90ca-b61605bbbf20",
+        "generated": "14-Oct-2026 00:09:54",
+        "generatedISO": "2026-10-14T00:09:54.569733",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19862731,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "4b599190-8df7-427f-8e3f-c990fb79f5bf",
+        "generated": "14-Oct-2026 00:12:56",
+        "generatedISO": "2026-10-14T00:12:56.889677",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19862731,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "e0e4df57-9d0c-4518-8222-6db48a71229b",
+        "generated": "14-Oct-2026 23:18:30",
+        "generatedISO": "2026-10-14T23:18:30.903676",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19862731,
+        "packetRate": 0.0,
+        "throughputMbps": 0.0
+    },
+    {
+        "scanId": "81b96f86-81f8-400f-8617-aaad6acc8bc7",
+        "generated": "20-Oct-2026 11:52:56",
+        "generatedISO": "2026-10-20T11:52:56.234827",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19916093,
+        "packetRate": 296.43,
+        "throughputMbps": 3.05
+    },
+    {
+        "scanId": "a51c1c6f-d931-4099-ad1c-549e80be7f42",
+        "generated": "20-Oct-2026 11:57:04",
+        "generatedISO": "2026-10-20T11:57:04.161183",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 19974281,
+        "packetRate": 323.32,
+        "throughputMbps": 3.39
+    },
+    {
+        "scanId": "d9f5c784-0b4a-4652-976b-a46f4fdbabe3",
+        "generated": "20-Oct-2026 12:04:13",
+        "generatedISO": "2026-10-20T12:04:13.407071",
+        "riskScore": 40,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20099912,
+        "packetRate": 697.98,
+        "throughputMbps": 7.42
+    },
+    {
+        "scanId": "2a1c05a8-33a9-4961-8cfb-1b2ec318a865",
+        "generated": "20-Oct-2026 12:07:09",
+        "generatedISO": "2026-10-20T12:07:09.996478",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20124064,
+        "packetRate": 134.19,
+        "throughputMbps": 1.36
+    },
+    {
+        "scanId": "dd9a66f0-6c8a-487d-8c97-cb74cf4f59ca",
+        "generated": "20-Oct-2026 12:10:38",
+        "generatedISO": "2026-10-20T12:10:38.411829",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20174780,
+        "packetRate": 281.84,
+        "throughputMbps": 2.94
+    },
+    {
+        "scanId": "f3d097ce-ed95-410e-9534-e4e2e07418a5",
+        "generated": "20-Oct-2026 12:13:31",
+        "generatedISO": "2026-10-20T12:13:31.537023",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20199519,
+        "packetRate": 137.41,
+        "throughputMbps": 1.39
+    },
+    {
+        "scanId": "05a0a3d1-1b2f-44b9-bd8d-3b94b64c24e1",
+        "generated": "20-Oct-2026 12:18:46",
+        "generatedISO": "2026-10-20T12:18:46.638234",
+        "riskScore": 40,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20314536,
+        "packetRate": 639.17,
+        "throughputMbps": 6.78
+    },
+    {
+        "scanId": "c85a4161-1a14-4477-8a4b-d22ee612d625",
+        "generated": "20-Oct-2026 12:22:15",
+        "generatedISO": "2026-10-20T12:22:15.341445",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20345225,
+        "packetRate": 170.48,
+        "throughputMbps": 1.74
+    },
+    {
+        "scanId": "1ca23dc5-7bf8-454e-90cc-5b245ead7920",
+        "generated": "20-Oct-2026 12:24:50",
+        "generatedISO": "2026-10-20T12:24:50.885840",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20360406,
+        "packetRate": 84.4,
+        "throughputMbps": 0.81
+    },
+    {
+        "scanId": "8c0fb968-9eaf-402c-b5be-0b7755f68f62",
+        "generated": "20-Oct-2026 12:27:23",
+        "generatedISO": "2026-10-20T12:27:23.310129",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20362158,
+        "packetRate": 9.74,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "89636ffe-e366-4f74-a225-e1109c17a6e8",
+        "generated": "20-Oct-2026 12:30:25",
+        "generatedISO": "2026-10-20T12:30:25.578581",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20364013,
+        "packetRate": 10.31,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "6e8414f2-73a6-42f2-863a-d10f9a298488",
+        "generated": "20-Oct-2026 12:33:25",
+        "generatedISO": "2026-10-20T12:33:25.831868",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20365801,
+        "packetRate": 9.94,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "07dda0ed-4f5c-46d4-afed-ab163d1fca85",
+        "generated": "20-Oct-2026 12:36:27",
+        "generatedISO": "2026-10-20T12:36:27.064496",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20367565,
+        "packetRate": 9.8,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "6d27d112-c0e5-4ac6-8e75-641d47b58907",
+        "generated": "20-Oct-2026 12:39:28",
+        "generatedISO": "2026-10-20T12:39:28.209591",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20369327,
+        "packetRate": 9.8,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "31913371-dcb0-4373-9c0e-805aadb99206",
+        "generated": "20-Oct-2026 12:42:29",
+        "generatedISO": "2026-10-20T12:42:29.998750",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20371243,
+        "packetRate": 10.65,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "4567e8ff-29f3-411b-84c9-77d9b5d863ea",
+        "generated": "20-Oct-2026 12:45:30",
+        "generatedISO": "2026-10-20T12:45:30.723628",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20373058,
+        "packetRate": 10.09,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "a4aff87e-ab49-470c-874c-26c21c7dcbd0",
+        "generated": "20-Oct-2026 12:48:30",
+        "generatedISO": "2026-10-20T12:48:30.057137",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20374845,
+        "packetRate": 9.93,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "981981ff-4cf4-4b36-af4e-4f2aa5f742b6",
+        "generated": "20-Oct-2026 12:51:30",
+        "generatedISO": "2026-10-20T12:51:30.403099",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20376655,
+        "packetRate": 10.06,
+        "throughputMbps": 0.02
+    },
+    {
+        "scanId": "18a691f8-b0be-4398-9cba-dc224c25c687",
+        "generated": "20-Oct-2026 12:51:31",
+        "generatedISO": "2026-10-20T12:51:31.922274",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20378843,
+        "packetRate": 12.2,
+        "throughputMbps": 0.03
+    },
+    {
+        "scanId": "07d4b876-8a8a-4158-863f-b0c0df63f911",
+        "generated": "20-Oct-2026 12:55:23",
+        "generatedISO": "2026-10-20T12:55:23.923526",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20418627,
+        "packetRate": 221.2,
+        "throughputMbps": 2.29
+    },
+    {
+        "scanId": "7adec055-a406-4766-bf89-916a6b4cf0b9",
+        "generated": "20-Oct-2026 12:58:09",
+        "generatedISO": "2026-10-20T12:58:09.434242",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20433985,
+        "packetRate": 85.32,
+        "throughputMbps": 0.83
+    },
+    {
+        "scanId": "8e383a80-c9a7-42e4-95bc-baa0fd7be6db",
+        "generated": "20-Oct-2026 13:09:19",
+        "generatedISO": "2026-10-20T13:09:19.497948",
+        "riskScore": 40,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20553329,
+        "packetRate": 662.88,
+        "throughputMbps": 7.04
+    },
+    {
+        "scanId": "5c96dc2c-9cc0-45c7-9afc-a544aa2e43c2",
+        "generated": "20-Oct-2026 13:11:02",
+        "generatedISO": "2026-10-20T13:11:02.423076",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20620713,
+        "packetRate": 374.32,
+        "throughputMbps": 3.94
+    },
+    {
+        "scanId": "a65566c3-acdf-497d-9d8f-12cc072a07db",
+        "generated": "20-Oct-2026 13:14:28",
+        "generatedISO": "2026-10-20T13:14:28.100699",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20657619,
+        "packetRate": 205.08,
+        "throughputMbps": 2.12
+    },
+    {
+        "scanId": "7976f220-510a-43ff-9414-9bd0d8f98720",
+        "generated": "20-Oct-2026 13:16:30",
+        "generatedISO": "2026-10-20T13:16:30.075311",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20704619,
+        "packetRate": 261.3,
+        "throughputMbps": 2.74
+    },
+    {
+        "scanId": "c68ebf0a-36a1-43cb-aa00-f1f8309c1ec7",
+        "generated": "20-Oct-2026 13:18:57",
+        "generatedISO": "2026-10-20T13:18:57.809695",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20722565,
+        "packetRate": 99.75,
+        "throughputMbps": 0.99
+    },
+    {
+        "scanId": "6bd3e013-736a-4544-b307-ef0a7f37ecaf",
+        "generated": "20-Oct-2026 13:22:05",
+        "generatedISO": "2026-10-20T13:22:05.662171",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20733175,
+        "packetRate": 58.97,
+        "throughputMbps": 0.54
+    },
+    {
+        "scanId": "657d175b-aec1-4e18-9dd6-08733847aceb",
+        "generated": "20-Oct-2026 13:24:40",
+        "generatedISO": "2026-10-20T13:24:40.201864",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20740833,
+        "packetRate": 42.61,
+        "throughputMbps": 0.37
+    },
+    {
+        "scanId": "13e0356e-6a02-4c66-918d-f97bf73a22bf",
+        "generated": "20-Oct-2026 13:27:43",
+        "generatedISO": "2026-10-20T13:27:43.123047",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20753368,
+        "packetRate": 69.63,
+        "throughputMbps": 0.66
+    },
+    {
+        "scanId": "b659c586-5c47-4010-9714-f0af08f3a586",
+        "generated": "20-Oct-2026 13:32:51",
+        "generatedISO": "2026-10-20T13:32:51.824172",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20820956,
+        "packetRate": 375.75,
+        "throughputMbps": 3.96
+    },
+    {
+        "scanId": "b3741935-f857-4faa-9065-559ce228a09d",
+        "generated": "20-Oct-2026 13:33:47",
+        "generatedISO": "2026-10-20T13:33:47.128936",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20825015,
+        "packetRate": 22.56,
+        "throughputMbps": 0.16
+    },
+    {
+        "scanId": "370db380-d5f5-4ae1-b215-16e2454cc720",
+        "generated": "20-Oct-2026 13:39:46",
+        "generatedISO": "2026-10-20T13:39:46.796743",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20842847,
+        "packetRate": 99.14,
+        "throughputMbps": 0.98
+    },
+    {
+        "scanId": "6b9dd19e-20ef-4b65-a595-77912acced0f",
+        "generated": "20-Oct-2026 13:43:57",
+        "generatedISO": "2026-10-20T13:43:57.584140",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 20868503,
+        "packetRate": 142.49,
+        "throughputMbps": 1.45
+    },
+    {
+        "scanId": "d885a61d-8e68-4d7f-8ead-b82628f9d766",
+        "generated": "20-Oct-2026 13:51:52",
+        "generatedISO": "2026-10-20T13:51:52.936770",
+        "riskScore": 40,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21010469,
+        "packetRate": 788.2,
+        "throughputMbps": 8.42
+    },
+    {
+        "scanId": "14e816d2-ce72-45ac-ad1d-9f23ae788031",
+        "generated": "20-Oct-2026 13:55:13",
+        "generatedISO": "2026-10-20T13:55:13.275684",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21016800,
+        "packetRate": 35.2,
+        "throughputMbps": 0.3
+    },
+    {
+        "scanId": "4e507f6c-6340-4066-8ac3-038af08e3d30",
+        "generated": "20-Oct-2026 13:58:42",
+        "generatedISO": "2026-10-20T13:58:42.898712",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21056617,
+        "packetRate": 221.17,
+        "throughputMbps": 2.3
+    },
+    {
+        "scanId": "65934bb1-fbed-4c72-a009-91d8b3fe7ee0",
+        "generated": "20-Oct-2026 14:03:45",
+        "generatedISO": "2026-10-20T14:03:45.022892",
+        "riskScore": 40,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21148947,
+        "packetRate": 513.03,
+        "throughputMbps": 5.44
+    },
+    {
+        "scanId": "35c74ae1-a727-4e05-b584-97af135cb9ca",
+        "generated": "20-Oct-2026 14:06:03",
+        "generatedISO": "2026-10-20T14:06:03.651779",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21212680,
+        "packetRate": 354.13,
+        "throughputMbps": 3.72
+    },
+    {
+        "scanId": "b71ea4ff-2c1d-4232-bdfc-d9df9ceaefac",
+        "generated": "20-Oct-2026 14:07:11",
+        "generatedISO": "2026-10-20T14:07:11.616473",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21219308,
+        "packetRate": 36.85,
+        "throughputMbps": 0.31
+    },
+    {
+        "scanId": "d3d9b78a-0b95-46a0-ac5e-8e1ff29b93ae",
+        "generated": "20-Oct-2026 14:11:01",
+        "generatedISO": "2026-10-20T14:11:01.321922",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21243450,
+        "packetRate": 134.14,
+        "throughputMbps": 1.36
+    },
+    {
+        "scanId": "01b1848b-6420-4946-9bef-4ca17b1f354f",
+        "generated": "20-Oct-2026 14:14:06",
+        "generatedISO": "2026-10-20T14:14:06.119966",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21273309,
+        "packetRate": 165.96,
+        "throughputMbps": 1.7
+    },
+    {
+        "scanId": "fe6046ba-6b1a-45ac-b1fa-58e0f24a144b",
+        "generated": "20-Oct-2026 14:17:03",
+        "generatedISO": "2026-10-20T14:17:03.345537",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21290168,
+        "packetRate": 93.74,
+        "throughputMbps": 0.92
+    },
+    {
+        "scanId": "15bb7f82-dc33-465d-a271-6fdd4cb88ccd",
+        "generated": "20-Oct-2026 14:20:18",
+        "generatedISO": "2026-10-20T14:20:18.450185",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21311666,
+        "packetRate": 119.37,
+        "throughputMbps": 1.2
+    },
+    {
+        "scanId": "b7b69afe-432b-4dcd-97dc-4c4901eef130",
+        "generated": "20-Oct-2026 14:25:26",
+        "generatedISO": "2026-10-20T14:25:26.794878",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21370906,
+        "packetRate": 329.0,
+        "throughputMbps": 3.46
+    },
+    {
+        "scanId": "8238d98f-578c-4b36-8458-c260ad7c5d13",
+        "generated": "20-Oct-2026 14:26:04",
+        "generatedISO": "2026-10-20T14:26:04.568550",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21414170,
+        "packetRate": 240.34,
+        "throughputMbps": 2.51
+    },
+    {
+        "scanId": "e4ff7164-38fb-4450-a938-1755bc7e859f",
+        "generated": "20-Oct-2026 14:29:22",
+        "generatedISO": "2026-10-20T14:29:22.821242",
+        "riskScore": 25,
+        "riskLevel": "MEDIUM",
+        "totalPackets": 21449456,
+        "packetRate": 195.94,
+        "throughputMbps": 2.03
+    }
+]
