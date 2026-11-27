@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "scheduleType": "interval",
+  "intervalMinutes": 60,
+  "lastRun": null,
+  "nextRun": null
+}
