@@ -1,0 +1,156 @@
+{
+    "status": "SUCCESS",
+    "generated": "25-Sep-2026 14:17:46",
+    "generatedISO": "2026-09-25T14:17:46.535760",
+    "riskScore": 55,
+    "riskLevel": "HIGH",
+    "recommendations": [
+        "Upload traffic is significantly higher than download traffic.",
+        "High ARP activity detected.",
+        "DNS traffic is unusually high.",
+        "Network throughput is above threshold."
+    ],
+    "recommendationCount": 4,
+    "totalPackets": 11175509,
+    "packetRate": 62080.66,
+    "throughput": 560.05,
+    "uploadDownloadRatio": {
+        "upload": 87.1,
+        "download": 12.9,
+        "uploadBytes": 10965675693,
+        "downloadBytes": 1625409206
+    },
+    "protocols": {
+        "DNS": 104565,
+        "OTHER": 8249233,
+        "QUIC": 584921,
+        "STP": 103610,
+        "TCP": 1420414,
+        "TLS": 238330,
+        "TCP.SEGMENTS": 70756,
+        "ARP": 79765,
+        "ICMPV6": 96386,
+        "SSDP": 59861,
+        "MAILSLOT": 550,
+        "TPLINK-SMARTHOME": 3608,
+        "IEEE1905": 8109,
+        "LLDP": 3444,
+        "MDNS": 78209,
+        "_WS.MALFORMED": 3488,
+        "STUN": 413,
+        "DTLS": 526,
+        "IGMP": 8285,
+        "DHCPV6": 1149,
+        "LLMNR": 19438,
+        "NBNS": 5787,
+        "DHCP": 365,
+        "HTTP": 1996,
+        "DATA-TEXT-LINES": 240,
+        "XML": 651,
+        "PORTMAP": 8,
+        "SNMP": 747,
+        "ICMP": 1345,
+        "XMPP": 9,
+        "WLCCP": 136,
+        "BASICXID": 163,
+        "WLAN.TAGGED.ALL": 12,
+        "NTP": 4,
+        "RTCP": 23515,
+        "RTSP": 1916,
+        "_WS.DISSECTOR_BUG": 4,
+        "STUFFING": 227,
+        "MP2T": 3003,
+        "MPEG-PES.DATA": 241,
+        "MPEG-PES.HEADER-DATA_TREE": 1,
+        "MPEG": 1,
+        "CERTIFICATE REVOCATION LIST": 1,
+        "PRP": 2,
+        "OCSP": 16,
+        "SMB": 2,
+        "NBSS": 54,
+        "DCERPC": 2,
+        "MEDIA": 1
+    },
+    "topTalkers": [
+        {
+            "ip": "192.168.137.1",
+            "hostname": "-",
+            "packetCount": 7686293,
+            "packets": 7686293,
+            "bytes": 9900929984,
+            "percentage": 68.78
+        },
+        {
+            "ip": "192.168.0.152",
+            "hostname": "-",
+            "packetCount": 1025650,
+            "packets": 1025650,
+            "bytes": 889186593,
+            "percentage": 9.18
+        },
+        {
+            "ip": "Unknown",
+            "hostname": "-",
+            "packetCount": 195382,
+            "packets": 195382,
+            "bytes": 11134723,
+            "percentage": 1.75
+        },
+        {
+            "ip": "2405:200:1608:1731::312c:7109",
+            "hostname": "-",
+            "packetCount": 106472,
+            "packets": 106472,
+            "bytes": 154047132,
+            "percentage": 0.95
+        },
+        {
+            "ip": "192.168.0.1",
+            "hostname": "-",
+            "packetCount": 79443,
+            "packets": 79443,
+            "bytes": 26216994,
+            "percentage": 0.71
+        },
+        {
+            "ip": "2a04:4e42:fe7::684",
+            "hostname": "-",
+            "packetCount": 70949,
+            "packets": 70949,
+            "bytes": 100160632,
+            "percentage": 0.63
+        },
+        {
+            "ip": "2a04:4e42:fea::684",
+            "hostname": "-",
+            "packetCount": 66449,
+            "packets": 66449,
+            "bytes": 93833902,
+            "percentage": 0.59
+        },
+        {
+            "ip": "167.82.58.172",
+            "hostname": "-",
+            "packetCount": 49767,
+            "packets": 49767,
+            "bytes": 70530274,
+            "percentage": 0.45
+        },
+        {
+            "ip": "167.82.62.172",
+            "hostname": "-",
+            "packetCount": 39932,
+            "packets": 39932,
+            "bytes": 55691689,
+            "percentage": 0.36
+        },
+        {
+            "ip": "2001:4860:4842:400::",
+            "hostname": "-",
+            "packetCount": 33858,
+            "packets": 33858,
+            "bytes": 43649739,
+            "percentage": 0.3
+        }
+    ]
+}
