@@ -1,0 +1,91 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Frontend Server",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "-m",
+                "http.server",
+                "5500",
+                "--bind",
+                "127.0.0.1"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/frontend"
+            },
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "frontend-server",
+                "pattern": {
+                    "regexp": "^(.*)$",
+                    "file": 1,
+                    "message": 1
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "^.*$",
+                    "endsPattern": ".*Serving HTTP on 127\\.0\\.0\\.1 port 5500.*"
+                }
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "network-scan"
+            }
+        },
+        {
+            "label": "Backend Server",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "server.py"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/backend"
+            },
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "backend-server",
+                "pattern": {
+                    "regexp": "^(.*)$",
+                    "file": 1,
+                    "message": 1
+                },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "^.*$",
+                    "endsPattern": ".*Running on http://127\\.0\\.0\\.1:5000.*"
+                }
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "network-scan"
+            }
+        },
+        {
+            "label": "Run Network Scan Project",
+            "dependsOn": [
+                "Frontend Server",
+                "Backend Server"
+            ],
+            "dependsOrder": "parallel",
+            "problemMatcher": []
+        },
+        {
+			"label": "Stop Network Scan Project",
+			"type": "process",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"${workspaceFolder}\\.vscode\\stop-network-scan.ps1"
+			],
+			"problemMatcher": []
+		}
+    ]
+}
