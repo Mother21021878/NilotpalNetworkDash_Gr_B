@@ -1,0 +1,91 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Frontend Server",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "-m",
+                "http.server",
+                "5500",
+                "--bind",
+                "127.0.0.1"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/frontend"
+            },
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "frontend-server",
+                "pattern": [
+                    {
+                        "regexp": "."
+                    }
+                ],
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": ".*Serving HTTP on.*",
+                    "endsPattern": ".*Serving HTTP on.*"
+                }
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "network-scan"
+            }
+        },
+        {
+            "label": "Backend Server",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "server.py"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/backend"
+            },
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "backend-server",
+                "pattern": [
+                    {
+                        "regexp": "."
+                    }
+                ],
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": ".*Running on http://127.0.0.1:5000.*",
+                    "endsPattern": ".*Running on http://127.0.0.1:5000.*"
+                }
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "network-scan"
+            }
+        },
+        {
+            "label": "Run Network Scan Project",
+            "dependsOn": [
+                "Frontend Server",
+                "Backend Server"
+            ],
+            "dependsOrder": "parallel",
+            "problemMatcher": []
+        },
+		{
+			"label": "Stop Network Scan Project",
+			"type": "process",
+			"command": "powershell",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-Command",
+				"$ports = @(5000,5500); foreach ($port in $ports) { Get-NetTCPConnection -LocalPort $port -State Listen -ErrorAction SilentlyContinue | Select-Object -ExpandProperty OwningProcess -Unique | ForEach-Object { if ($_ -and $_ -ne 0) { Stop-Process -Id $_ -Force -ErrorAction SilentlyContinue } } }"
+			],
+			"problemMatcher": []
+		}
+    ]
+}
