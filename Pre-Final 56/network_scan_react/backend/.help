@@ -1,0 +1,32 @@
+Install dotenv from PowerShell
+
+cd F:\OpenHack\network_scan_react\backend
+
+python -m pip install python-dotenv
+
+===========================================================================
+
+Open the official Groq API Keys page:
+
+GroqCloud API Keys >> https://console.groq.com/keys?utm_source=chatgpt.com
+
+Create the key
+
+Give it a name >> Network Monitoring Dash
+
+Then create the key >> gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Create this file: F:\OpenHack\network_scan_react\backend\.env
+
+Inside .env, put:	GROQ_API_KEY=gsk_ABC123........
+
+Do not put quotes around it.
+
+This will be used by >> ai_engine.py
+
+===========================================================================
+
+On PowerShell >> 
+python -c "from dotenv import load_dotenv; import os; load_dotenv(); print('GROQ_API_KEY loaded:', bool(os.getenv('GROQ_API_KEY')))"
+
+>> GROQ_API_KEY loaded: True
