@@ -1,0 +1,17 @@
+[
+    {
+        "id": "70a73b6b-e594-499c-b499-476c80db87f8",
+        "timestamp": "2026-09-21T14:12:20.464034",
+        "feedback": "correct",
+        "analysisType": "packet",
+        "deviceId": null,
+        "packetId": 8426,
+        "ip": null,
+        "predictedRisk": "HIGH",
+        "predictedScore": 65,
+        "predictedCategory": "Encrypted Traffic",
+        "correctedRisk": null,
+        "correctedCategory": null,
+        "comment": ""
+    }
+]
