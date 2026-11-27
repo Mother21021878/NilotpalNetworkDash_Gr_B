@@ -1,0 +1,38 @@
+{
+    "high_risk_packet": {
+        "enabled": true,
+        "severity": "HIGH",
+        "threshold": 75
+    },
+    "critical_risk_packet": {
+        "enabled": true,
+        "severity": "CRITICAL",
+        "threshold": 90
+    },
+    "suspicious_port": {
+        "enabled": true,
+        "severity": "HIGH",
+        "ports": [
+            21,
+            23,
+            135,
+            139,
+            445,
+            3389
+        ]
+    },
+    "plaintext_protocol": {
+        "enabled": true,
+        "severity": "MEDIUM",
+        "protocols": [
+            "HTTP",
+            "FTP",
+            "TELNET"
+        ]
+    },
+    "high_packet_rate": {
+        "enabled": true,
+        "severity": "HIGH",
+        "packets_per_second": 100
+    }
+}
