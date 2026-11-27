@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "temperature": 0.3,
+    "custom_instructions": "",
+    "rules": [
+        {
+            "id": "2691238c-367a-485d-b8db-d6540bdec129",
+            "name": "Test 1",
+            "enabled": true,
+            "analysisType": "both",
+            "field": "riskScore",
+            "operator": "gte",
+            "value": 80,
+            "action": {
+                "type": "set_risk",
+                "value": "Critical"
+            }
+        }
+    ]
+}
